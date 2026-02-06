@@ -1,0 +1,27 @@
+================================================================================
+SAMPLE TRANSMITTAL EXCEL: d:\steel(3)\steel\backend\sample_files\Transmittal #62.xlsx
+================================================================================
+
+Sheet Name: Drawing Transmittal
+
+First 30 rows:
+--------------------------------------------------------------------------------
+Row  1:  |  |  |  |  |  |  | 
+Row  2:  |  |  |  |  |  |  | 
+Row  3:  |  |  |  |  |  |  | 
+Row  4:  |  |  |  |  |  |  | 
+Row  5:  |  |  |  |  |  |  | 
+Row  6: Customer Name:  |  |  |  |  |  |  | 
+Row  7: Project Name: GSC Juniper RBP Phase II |  |  |  |  |  |  | 
+Row  8: Customer Project No: 24050 |  |  |  |  |  |  | 
+Row  9: TRANSMITTAL #62 DT.06/26/2025 |  |  |  |  |  |  | 
+Row 10: Sl. No. | Sheet No. | Drawing Title | Revision Mark | Date | Remarks |  | 
+Row 11:  |  | E SHEET |  |  |  |  | 
+Row 12: 1 | E12 | LOOSE LINTEL FRAMING PLAN (ZONE-2) | 1 | 2025-06-26 00:00:00 | REVISED AS NOTED |  | 
+Row 13: 2 | E13 | LOOSE LINTEL FRAMING PLAN (ZONE-2) | 1 | 2025-06-26 00:00:00 | REVISED AS NOTED |  | 
+Row 14:  |  |  |  |  |  |  | 
+Row 15:  |  | SHOP DRAWINGS |  |  |  |  | 
+Row 16: 1 | 2AL46 | LINTEL ANGLE | 0 | 2025-06-26 00:00:00 | For Fabrication |  | 
+Row 17: 2 | 2AL47 | LINTEL ANGLE | 0 | 2025-06-26 00:00:00 | For Fabrication |  | 
+Row 18:  |  |  |  |  |  |  | 
+Row 19: Prepared By :SMS |  | PSR | Sent By  : HAR |  |  |  | 

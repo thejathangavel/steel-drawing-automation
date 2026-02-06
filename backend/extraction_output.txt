@@ -1,0 +1,24 @@
+================================================================================
+PDF: d:\steel(3)\steel\backend\sample_files\2AL46 - LINTEL ANGLE - Rev 0.pdf
+================================================================================
+
+Extraction Result:
+{
+  "drawing_no": "2AL46",
+  "revision_no": "0",
+  "description": "LINTEL ANGLE",
+  "drawing_type": "UNKNOWN",
+  "date": "06/26/2025",
+  "quantity": 1,
+  "remarks": "For Fabrication",
+  "project_name": "GSC JUNIPER RBP PHASE-II"
+}
+
+================================================================================
+Expected Output:
+================================================================================
+DWG No: 2AL46
+Title: LINTEL ANGLE
+REV: 0
+Date: (should be a date)
+Remarks: (fabrication or similar)

@@ -1,0 +1,93 @@
+Blocks for 2AL46 - LINTEL ANGLE - Rev 0.pdf:
+Block 44 (576.6, 276.5, 663.7, 292.7):
+  "L7X4X58/  x 13'-2\n"
+Block 43 (465.5, 318.5, 500.2, 331.9):
+  '2AL46\n'
+Block 45 (216.7, 369.2, 230.1, 375.8):
+  '7\n'
+Block 28 (1058.8, 580.7, 1178.0, 602.7):
+  '20 HIGH STREET\nPLAINSVILLE, MA 02762\n'
+Block 29 (1063.4, 605.3, 1175.1, 615.1):
+  'PHONE (508) 381-0429\n'
+Block 42 (477.5, 600.9, 682.4, 621.3):
+  'ONE - LINTEL ANGLE - 2AL46\n'
+Block 30 (1080.4, 615.6, 1154.1, 625.3):
+  'www.teambes.com\n'
+Block 11 (894.5, 635.5, 935.5, 642.0):
+  'PROJECT NAME\n'
+Block 40 (753.7, 641.2, 836.5, 647.1):
+  '0\n06/26/2025\nFor Fabrication\n'
+Block 41 (749.8, 651.1, 839.9, 657.0):
+  'REV.\nDATE\nDESCRIPTION\n'
+Block 22 (897.2, 641.7, 1015.9, 658.0):
+  'GSC JUNIPER RBP PHASE-II\n'
+Block 12 (893.9, 660.5, 920.6, 667.0):
+  'LOCATION\n'
+Block 6 (753.7, 663.4, 782.8, 669.9):
+  'MATERIAL\n'
+Block 17 (754.1, 669.6, 785.6, 677.9):
+  'A36 UNO\n'
+Block 23 (896.7, 669.0, 1000.8, 682.0):
+  'PARKWAY EVERETT, MA\n'
+Block 13 (893.9, 682.3, 930.8, 688.8):
+  'CONTRACTOR\n'
+Block 9 (754.3, 685.3, 774.0, 691.8):
+  'HOLES\n'
+Block 20 (754.2, 691.0, 796.8, 699.2):
+  '13/16Ø UNO\n'
+Block 24 (896.7, 688.2, 1087.5, 704.5):
+  'BUILDING ENVELOPE SYSTEMS\n'
+Block 14 (893.9, 704.1, 922.3, 710.6):
+  'DWG TITLE\n'
+Block 7 (754.1, 706.8, 774.8, 713.3):
+  'WELDS\n'
+Block 1 (202.3, 701.3, 364.2, 721.4):
+  'BILL OF MATERIAL\n'
+Block 18 (754.7, 713.3, 777.6, 721.5):
+  'E70XX\n'
+Block 25 (897.1, 709.5, 984.4, 725.7):
+  'LINTEL ANGLE\n'
+Block 37 (1141.8, 725.3, 1172.5, 731.8):
+  'DGSTS No.\n'
+Block 31 (961.0, 725.3, 998.8, 731.8):
+  'CHECKED BY\n'
+Block 15 (895.3, 725.6, 926.7, 732.1):
+  'DRAWN BY\n'
+Block 8 (753.5, 726.0, 800.3, 732.5):
+  'SURFACE PREP.\n'
+Block 33 (1026.9, 726.0, 1066.0, 732.5):
+  'DATE DRAWN\n'
+Block 35 (1088.3, 726.2, 1120.6, 732.7):
+  'PLOT DATE\n'
+Block 2 (42.3, 722.2, 327.7, 738.5):
+  'QTY\nTOTAL\nMARK\nSHAPE\nLENGTH\nWEIGHT\n'
+Block 4 (476.7, 722.8, 500.7, 738.5):
+  'STEEL\nGRADE\n'
+Block 3 (300.6, 722.4, 463.9, 739.4):
+  'TOTAL\nREMARKS\nADV\nMILL #\n'
+Block 19 (753.7, 731.5, 790.1, 739.8):
+  'SSPC-SP3\n'
+Block 32 (962.1, 731.7, 978.5, 740.3):
+  'HSR\n'
+Block 38 (1142.6, 731.7, 1147.7, 740.4):
+  '--\n'
+Block 0 (27.7, 685.4, 36.2, 740.4):
+  'Tekla Structures\n'
+Block 26 (896.5, 731.9, 913.7, 740.6):
+  'MPR\n'
+Block 34 (1027.6, 732.4, 1066.5, 741.1):
+  '06/26/2025\n'
+Block 36 (1089.0, 732.6, 1127.9, 741.3):
+  '06/26/2025\n'
+Block 10 (753.1, 742.2, 791.2, 748.7):
+  'PAINT NOTE :\n'
+Block 5 (41.5, 741.8, 493.2, 752.1):
+  '2AL46\nL7X4X5/8\n13\'-2"\n291\nA36\n1\n  SQ-2  GALV  \n'
+Block 39 (1142.5, 741.7, 1177.3, 755.8):
+  '0\nREV.\n'
+Block 21 (753.0, 747.6, 768.7, 755.8):
+  'GALV\n'
+Block 16 (895.1, 746.0, 1065.0, 755.8):
+  'CONTRACT No.\nDWG No.\n'
+Block 27 (960.4, 743.2, 1101.0, 756.4):
+  '24050\n2AL46\n'

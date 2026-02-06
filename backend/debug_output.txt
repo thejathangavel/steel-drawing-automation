@@ -1,0 +1,2 @@
+Column mapping: {'sheet_no': 2, 'title': 2, 'revision': 3, 'date': 4, 'remarks': 5}
+Sheet No. column index: 2

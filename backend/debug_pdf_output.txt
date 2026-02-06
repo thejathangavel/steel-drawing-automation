@@ -1,0 +1,212 @@
+================================================================================
+PDF TEXT CONTENT DEBUG
+================================================================================
+
+--- FULL TEXT CONTENT ---
+Tekla Structures
+BILL OF MATERIAL
+QTY
+TOTAL
+MARK
+SHAPE
+LENGTH
+WEIGHT
+TOTAL
+REMARKS
+ADV
+MILL #
+STEEL
+GRADE
+2AL46
+L7X4X5/8
+13'-2"
+291
+A36
+1
+  SQ-2  GALV  
+MATERIAL
+WELDS
+SURFACE PREP.
+HOLES
+PAINT NOTE :
+PROJECT NAME
+LOCATION
+CONTRACTOR
+DWG TITLE
+DRAWN BY
+CONTRACT No.
+DWG No.
+A36 UNO
+E70XX
+SSPC-SP3
+13/16Ø UNO
+GALV
+GSC JUNIPER RBP PHASE-II
+PARKWAY EVERETT, MA
+BUILDING ENVELOPE SYSTEMS
+LINTEL ANGLE
+MPR
+24050
+2AL46
+20 HIGH STREET
+PLAINSVILLE, MA 02762
+PHONE (508) 381-0429
+www.teambes.com
+CHECKED BY
+HSR
+DATE DRAWN
+06/26/2025
+PLOT DATE
+06/26/2025
+DGSTS No.
+--
+0
+REV.
+0
+06/26/2025
+For Fabrication
+REV.
+DATE
+DESCRIPTION
+ONE - LINTEL ANGLE - 2AL46
+2AL46
+L7X4X58/  x 13'-2
+7
+
+
+================================================================================
+
+--- LINE-BY-LINE CONTENT ---
+Line   0: 'Tekla Structures'
+Line   1: 'BILL OF MATERIAL'
+Line   2: 'QTY'
+Line   3: 'TOTAL'
+Line   4: 'MARK'
+Line   5: 'SHAPE'
+Line   6: 'LENGTH'
+Line   7: 'WEIGHT'
+Line   8: 'TOTAL'
+Line   9: 'REMARKS'
+Line  10: 'ADV'
+Line  11: 'MILL #'
+Line  12: 'STEEL'
+Line  13: 'GRADE'
+Line  14: '2AL46'
+Line  15: 'L7X4X5/8'
+Line  16: '13'-2"'
+Line  17: '291'
+Line  18: 'A36'
+Line  19: '1'
+Line  20: '  SQ-2  GALV  '
+Line  21: 'MATERIAL'
+Line  22: 'WELDS'
+Line  23: 'SURFACE PREP.'
+Line  24: 'HOLES'
+Line  25: 'PAINT NOTE :'
+Line  26: 'PROJECT NAME'
+Line  27: 'LOCATION'
+Line  28: 'CONTRACTOR'
+Line  29: 'DWG TITLE'
+Line  30: 'DRAWN BY'
+Line  31: 'CONTRACT No.'
+Line  32: 'DWG No.'
+Line  33: 'A36 UNO'
+Line  34: 'E70XX'
+Line  35: 'SSPC-SP3'
+Line  36: '13/16Ø UNO'
+Line  37: 'GALV'
+Line  38: 'GSC JUNIPER RBP PHASE-II'
+Line  39: 'PARKWAY EVERETT, MA'
+Line  40: 'BUILDING ENVELOPE SYSTEMS'
+Line  41: 'LINTEL ANGLE'
+Line  42: 'MPR'
+Line  43: '24050'
+Line  44: '2AL46'
+Line  45: '20 HIGH STREET'
+Line  46: 'PLAINSVILLE, MA 02762'
+Line  47: 'PHONE (508) 381-0429'
+Line  48: 'www.teambes.com'
+Line  49: 'CHECKED BY'
+Line  50: 'HSR'
+Line  51: 'DATE DRAWN'
+Line  52: '06/26/2025'
+Line  53: 'PLOT DATE'
+Line  54: '06/26/2025'
+Line  55: 'DGSTS No.'
+Line  56: '--'
+Line  57: '0'
+Line  58: 'REV.'
+Line  59: '0'
+Line  60: '06/26/2025'
+Line  61: 'For Fabrication'
+Line  62: 'REV.'
+Line  63: 'DATE'
+Line  64: 'DESCRIPTION'
+Line  65: 'ONE - LINTEL ANGLE - 2AL46'
+Line  66: '2AL46'
+Line  67: 'L7X4X58/  x 13'-2'
+Line  68: '7'
+
+================================================================================
+
+--- SEARCHING FOR KEY LABELS ---
+
+Searching for 'DRG No':
+
+Searching for 'DWG No':
+  Found at line 32:
+        Line  30: 'DRAWN BY'
+        Line  31: 'CONTRACT No.'
+    >>> Line  32: 'DWG No.'
+        Line  33: 'A36 UNO'
+        Line  34: 'E70XX'
+
+Searching for 'DWG TITLE':
+  Found at line 29:
+        Line  27: 'LOCATION'
+        Line  28: 'CONTRACTOR'
+    >>> Line  29: 'DWG TITLE'
+        Line  30: 'DRAWN BY'
+        Line  31: 'CONTRACT No.'
+
+Searching for 'REV':
+  Found at line 58:
+        Line  56: '--'
+        Line  57: '0'
+    >>> Line  58: 'REV.'
+        Line  59: '0'
+        Line  60: '06/26/2025'
+  Found at line 62:
+        Line  60: '06/26/2025'
+        Line  61: 'For Fabrication'
+    >>> Line  62: 'REV.'
+        Line  63: 'DATE'
+        Line  64: 'DESCRIPTION'
+
+Searching for 'DATE':
+  Found at line 51:
+        Line  49: 'CHECKED BY'
+        Line  50: 'HSR'
+    >>> Line  51: 'DATE DRAWN'
+        Line  52: '06/26/2025'
+        Line  53: 'PLOT DATE'
+  Found at line 53:
+        Line  51: 'DATE DRAWN'
+        Line  52: '06/26/2025'
+    >>> Line  53: 'PLOT DATE'
+        Line  54: '06/26/2025'
+        Line  55: 'DGSTS No.'
+  Found at line 63:
+        Line  61: 'For Fabrication'
+        Line  62: 'REV.'
+    >>> Line  63: 'DATE'
+        Line  64: 'DESCRIPTION'
+        Line  65: 'ONE - LINTEL ANGLE - 2AL46'
+
+Searching for 'For Fabrication':
+  Found at line 61:
+        Line  59: '0'
+        Line  60: '06/26/2025'
+    >>> Line  61: 'For Fabrication'
+        Line  62: 'REV.'
+        Line  63: 'DATE'

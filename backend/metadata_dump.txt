@@ -1,0 +1,8 @@
+drawing_no: 2AL46
+revision_no: 0
+description: LINTEL ANGLE
+drawing_type: UNKNOWN
+date: 06/26/2025
+quantity: 1
+remarks: For Fabrication
+project_name: GSC JUNIPER RBP PHASE-II

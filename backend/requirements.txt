@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+sqlalchemy
+pymupdf
+pandas
+openpyxl
+pytest
+httpx
+python-dotenv
+pydantic-settings
+pdfplumber
+ezdxf
+motor==3.7.1
+pymongo==4.16.0

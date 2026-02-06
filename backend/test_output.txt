@@ -1,0 +1,45 @@
+================================================================================
+TESTING STRICT PDF FIELD EXTRACTION
+================================================================================
+
+Processing: 2AL46 - LINTEL ANGLE - Rev 0.pdf
+
+Expected Results (for 2AL46):
+  DWG No:      2AL46
+  DWG TITLE:   LINTEL ANGLE
+  REV:         0
+  DATE:        06/26/2025
+  DESCRIPTION: For Fabrication
+
+================================================================================
+
+Extracted Results:
+  DWG No:      MPR
+  DWG TITLE:   BUILDING ENVELOPE SYSTEMS
+  REV:         0
+  DATE:        06/26/2025
+  DESCRIPTION: For Fabrication
+  Project:     GSC JUNIPER RBP PHASE-II
+
+================================================================================
+VALIDATION RESULTS:
+================================================================================
+  ✗ DWG No: FAIL (got 'MPR', expected '2AL46')
+  ✗ DWG TITLE: FAIL (got 'BUILDING ENVELOPE SYSTEMS', expected 'LINTEL ANGLE')
+  ✓ REV: PASS
+  ✓ DATE: PASS
+  ✓ DESCRIPTION: PASS
+
+================================================================================
+✗ SOME CHECKS FAILED - Review extraction logic
+================================================================================
+
+Full Metadata:
+  drawing_no: MPR
+  revision_no: 0
+  description: BUILDING ENVELOPE SYSTEMS
+  drawing_type: UNKNOWN
+  date: 06/26/2025
+  quantity: 1
+  remarks: For Fabrication
+  project_name: GSC JUNIPER RBP PHASE-II
